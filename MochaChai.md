@@ -8,6 +8,8 @@ Manual. Usar mocha y chai de forma local.
 4. Instalar Mocha de forma global. Usar el comando **npm install -g mocha**
 5. Crear el **Package.js**. Usar el comando npm init.
 6. Luego de ejecutar el comando anterior se definen los argumentos: nombre, versión, descripción, punto de entrada, comando para el test (Este comando es para ejecutar las pruebas desde la consola).
+![Image](https://github.com/hricom/TechnicalDocumentation/blob/master/images/MochaChai.PNG)
+
 7. Instala **mocha y chai** en el proyecto. Usar el comando **npm install –save mocha chai**
 8. Crear una carpeta que contendrá los archivos con las pruebas. (Por convención se recomienda que la carpeta lleve el nombre de test).
 
