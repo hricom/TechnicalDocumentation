@@ -31,7 +31,7 @@ Esto genera un compilado en .ZIP en la raíz de la presentación dentro de la ca
 
 Ingresamos a la lambda que creamos
 
-![Image](https://lh3.googleusercontent.com/NCmgHhv5ZMu_8JWRfMM4WH7KentSHDmONfsBH5dBDTm1XBAcvrAZn6o59_33W9KRa2MtWFTprhz8DtrmnbiT_sxF7TtHd2ZNJmXNtxvomniuslz73WNbqJVrXRrQnCcHo9F_x-a_j0IUP9P-YZcLF3YytV90cgRHxA8nGvM4jJYL5K-PWnqkZFLyNnVxRnhNLeSGgnh_SHy6v9uK3Vd-QHqVMqT7BdPouCjPC89JXo2IeM3ZUeToJVF4qFBE2-eJa-J478IXVa79jqe_S60pPxZS5dg1WiSrIR7-CWO1y0zcD4yMA94Bl1wKJ-CnZs-HPmB0loo3lkfE-6YrK1XCjIZ7VY2GQAKmvCnWXDZtzzP1iBa8OKCWOxKTkFCjZyoxGiU4nVfK0e8fhQKg1jSBkDGpMYFTTG_qTJBHWa8vuRB15EAOG123UIQZbY6t9Os0Nv2Fm8hLvMnlPePdYhlZ8get77HDlRXpoAAbX2qqzuxyKZVc7TDqehbm6dzUwPUzfpul-1wBE7sf2L5pLrItcxGy0wePwEhby4n7sm5WgjhLXV0143CPB3OgJobUoJzl6TYRBkTCdqaxmjKVWkmgN-oYUcrhR10AmohjZgileQz4AECtk_XBxYVKcWrsuKkFGJNHetqn1AL_cW9MIvmFtXEFMEWLbkE=w1920-h628-no)
+![Image](https://github.com/hricom/TechnicalDocumentation/blob/master/images/Lambda.png)
 
 Vamos a las opciones de FUNCTION CODE y seguimos los pasos de la imagen.
 
